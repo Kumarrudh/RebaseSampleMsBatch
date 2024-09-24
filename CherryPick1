@@ -1,0 +1,18 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 98FA-EFFA
+
+ Directory of C:\Kumar\DOTNET Core\MServiceProject\Git\GitRebase\RebaseSampleMsBatch
+
+24-09-2024  18:26    <DIR>          .
+23-09-2024  20:11    <DIR>          ..
+23-09-2024  20:11             7,258 .gitignore
+24-09-2024  18:26                 0 CherryPick1
+24-09-2024  18:13                35 dev1changes
+24-09-2024  18:03    <DIR>          dir
+24-09-2024  18:15                21 main.txt
+23-09-2024  20:15                 0 MainBranchFirstFile
+23-09-2024  20:11                21 README.md
+24-09-2024  18:13                28 test2.txt
+24-09-2024  18:14                23 text2.txt
+               8 File(s)          7,386 bytes
+               3 Dir(s)  218,492,272,640 bytes free
